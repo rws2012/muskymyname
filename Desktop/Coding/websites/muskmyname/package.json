@@ -4,11 +4,12 @@
   "description": "",
   "main": "demoMusk.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'build script executed'"
   },
   "repository": {
     "type": "git",
-    "url": "github.com/rws2012/muskymyname"
+    "url": "github.com/rws2012/muskymyname.git"
   },
   "author": "",
   "license": "ISC"
